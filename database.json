@@ -1,0 +1,300 @@
+{
+  "users": [
+    {
+      "id": "user_devanshi1896",
+      "email": "devanshi1896@gmail.com",
+      "createdAt": "2026-06-10T10:57:04.494Z"
+    }
+  ],
+  "history": [
+    {
+      "id": "h_kuq4cq1",
+      "userId": "user_devanshi1896",
+      "domain": "countingcharacters.com",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:26:48.030Z"
+    },
+    {
+      "id": "h_iu2oy4x",
+      "userId": "user_devanshi1896",
+      "domain": "google.com",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:26:35.850Z"
+    },
+    {
+      "id": "h_wxpuhl9",
+      "userId": "user_devanshi1896",
+      "domain": "compress2go.com",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:26:23.974Z"
+    },
+    {
+      "id": "h_i3cx58f",
+      "userId": "user_devanshi1896",
+      "domain": "google.com",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:26:09.505Z"
+    },
+    {
+      "id": "h_4cbn9tx",
+      "userId": "user_devanshi1896",
+      "domain": "chatgpt.com",
+      "category": "AI / ML",
+      "timestamp": "2026-06-10T12:25:31.621Z"
+    },
+    {
+      "id": "h_pa3pd9l",
+      "userId": "user_devanshi1896",
+      "domain": "chatgpt.com",
+      "category": "AI / ML",
+      "timestamp": "2026-06-10T12:25:20.789Z"
+    },
+    {
+      "id": "h_gsp4fd3",
+      "userId": "user_devanshi1896",
+      "domain": "chatgpt.com",
+      "category": "AI / ML",
+      "timestamp": "2026-06-10T12:25:06.888Z"
+    },
+    {
+      "id": "h_zmo98l2",
+      "userId": "user_devanshi1896",
+      "domain": "aistudio.google.com",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:23:23.265Z"
+    },
+    {
+      "id": "h_39immr5",
+      "userId": "user_devanshi1896",
+      "domain": "test.com",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:22:01.149Z"
+    },
+    {
+      "id": "h_zmvecob",
+      "userId": "user_devanshi1896",
+      "domain": "localhost",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:09:15.119Z"
+    },
+    {
+      "id": "h_tpi84g9",
+      "userId": "user_devanshi1896",
+      "domain": "extensions",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:09:05.430Z"
+    },
+    {
+      "id": "h_lrqsvfz",
+      "userId": "user_devanshi1896",
+      "domain": "extensions",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:08:56.038Z"
+    },
+    {
+      "id": "h_p7kh9ga",
+      "userId": "user_devanshi1896",
+      "domain": "localhost",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:06:46.737Z"
+    },
+    {
+      "id": "h_f5nxc7o",
+      "userId": "user_devanshi1896",
+      "domain": "newtab",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:06:38.649Z"
+    },
+    {
+      "id": "h_xm8sp7k",
+      "userId": "user_devanshi1896",
+      "domain": "localhost",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:06:27.429Z"
+    },
+    {
+      "id": "h_5b733cz",
+      "userId": "user_devanshi1896",
+      "domain": "extensions",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:01:44.779Z"
+    },
+    {
+      "id": "h_j9etvus",
+      "userId": "user_devanshi1896",
+      "domain": "extensions",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:01:34.531Z"
+    },
+    {
+      "id": "h_qudp83z",
+      "userId": "user_devanshi1896",
+      "domain": "amazon.in",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:01:24.374Z"
+    },
+    {
+      "id": "h_osfu3bb",
+      "userId": "user_devanshi1896",
+      "domain": "openai.com",
+      "category": "AI / ML",
+      "timestamp": "2026-06-10T12:01:10.796Z"
+    },
+    {
+      "id": "h_8jsrbd3",
+      "userId": "user_devanshi1896",
+      "domain": "localhost",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:00:53.030Z"
+    },
+    {
+      "id": "h_dyn9ztc",
+      "userId": "user_devanshi1896",
+      "domain": "github.com",
+      "category": "Programming",
+      "timestamp": "2026-06-10T12:00:41.049Z"
+    },
+    {
+      "id": "h_mxr5m6c",
+      "userId": "user_devanshi1896",
+      "domain": "newtab",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:00:29.926Z"
+    },
+    {
+      "id": "h_k5290cg",
+      "userId": "user_devanshi1896",
+      "domain": "github.com",
+      "category": "Programming",
+      "timestamp": "2026-06-10T12:00:20.637Z"
+    },
+    {
+      "id": "h_rj646vd",
+      "userId": "user_devanshi1896",
+      "domain": "newtab",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:00:08.821Z"
+    },
+    {
+      "id": "h_mfvyka7",
+      "userId": "user_devanshi1896",
+      "domain": "newtab",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T12:00:00.281Z"
+    },
+    {
+      "id": "h_ired53i",
+      "userId": "user_devanshi1896",
+      "domain": "localhost",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T11:59:51.378Z"
+    },
+    {
+      "id": "h_cwtp3uv",
+      "userId": "user_devanshi1896",
+      "domain": "newtab",
+      "category": "General Search & News",
+      "timestamp": "2026-06-10T11:59:42.234Z"
+    },
+    {
+      "id": "h1",
+      "userId": "user_devanshi1896",
+      "domain": "github.com",
+      "category": "Programming",
+      "timestamp": "2026-06-10T02:57:04.491Z"
+    },
+    {
+      "id": "h2",
+      "userId": "user_devanshi1896",
+      "domain": "leetcode.com",
+      "category": "Programming",
+      "timestamp": "2026-06-10T03:57:04.492Z"
+    },
+    {
+      "id": "h3",
+      "userId": "user_devanshi1896",
+      "domain": "stackoverflow.com",
+      "category": "Programming",
+      "timestamp": "2026-06-10T04:57:04.492Z"
+    },
+    {
+      "id": "h4",
+      "userId": "user_devanshi1896",
+      "domain": "python.org",
+      "category": "Programming",
+      "timestamp": "2026-06-10T05:57:04.492Z"
+    },
+    {
+      "id": "h5",
+      "userId": "user_devanshi1896",
+      "domain": "openai.com",
+      "category": "AI / ML",
+      "timestamp": "2026-06-10T06:27:04.492Z"
+    },
+    {
+      "id": "h6",
+      "userId": "user_devanshi1896",
+      "domain": "huggingface.co",
+      "category": "AI / ML",
+      "timestamp": "2026-06-10T06:57:04.492Z"
+    },
+    {
+      "id": "h7",
+      "userId": "user_devanshi1896",
+      "domain": "espn.com",
+      "category": "Sports",
+      "timestamp": "2026-06-10T07:57:04.492Z"
+    },
+    {
+      "id": "h8",
+      "userId": "user_devanshi1896",
+      "domain": "netflix.com",
+      "category": "Entertainment",
+      "timestamp": "2026-06-10T08:57:04.492Z"
+    },
+    {
+      "id": "h9",
+      "userId": "user_devanshi1896",
+      "domain": "amazon.com",
+      "category": "Shopping",
+      "timestamp": "2026-06-10T09:57:04.492Z"
+    }
+  ],
+  "predictions": {
+    "user_devanshi1896": {
+      "userId": "user_devanshi1896",
+      "interests": {
+        "AI / ML": 0.1433,
+        "Cooking": 0.0595,
+        "Entertainment": 0.0654,
+        "Finance": 0.0595,
+        "Gaming": 0.1098,
+        "Gardening": 0.0595,
+        "Photography": 0.0595,
+        "Programming": 0.1871,
+        "Shopping": 0.0719,
+        "Social Media": 0.0595,
+        "Sports": 0.0654,
+        "Travel": 0.0595
+      },
+      "profiles": {
+        "CryptoEnthusiast": 0.11,
+        "Developer": 0.35,
+        "Gamer": 0.09,
+        "LifestyleBuyer": 0.14,
+        "Student": 0.07,
+        "TechBuyer": 0.24
+      },
+      "shapValues": {
+        "global": []
+      },
+      "risk": {
+        "score": 44,
+        "level": "Medium",
+        "confidence": 30,
+        "uniqueness": 48,
+        "trackerExposure": 56
+      }
+    }
+  }
+}
